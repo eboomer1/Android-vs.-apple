@@ -1,0 +1,34 @@
+html{
+    background-color:#cabfb6;
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-color:white;
+    width: 600px;
+    margin: 0 auto;
+    padding: 100px;
+}
+h2{
+    font-family: 'Proza Libre', sans-serif;
+}
+h1{
+    font-size: 25px;
+}
+.explore{
+    background-color:#c9793b;
+    border-radius: 5px;
+    border-style:none;
+    width: 200px;
+    height: 40px;
+    margin: 0 auto;
+    text-align:center;
+    font-family: 'Proza Libre', sans-serif;
+    font-size:15px;    
+}
+.decision{
+    width:150px;
+    height: 40px;
+    border-radius:5px;
+    font-size:18px;
+    display:inline;
+}
